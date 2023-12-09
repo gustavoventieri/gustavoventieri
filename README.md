@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 🖖 Olá, meu nome é <strong>Gustavo Mendes!</strong>
+# 🖖 Olá, meu nome é <strong>Gustavo Ventieri!</strong>
 <h3> Sou mais um apaixonado por programação e tecnologia!</h3>
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
