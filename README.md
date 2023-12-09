@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# 🖖 Olá, meu nome é <strong>Gustavo Ventieri!</strong>
+## ✌️ Olá, meu nome é <strong>Gustavo Ventieri!</strong>
 <h3> Sou mais um apaixonado por programação e tecnologia!</h3>
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 
-## 🚀 Minhas Skills
+## 🚀 Minhas Habilidades 
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## 🛠️Ferramentas de desenvolvimento
+## 🛠️ Ferramentas de desenvolvimento
 
 <p align="left">
   <a href="https://skillicons.dev">
