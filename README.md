@@ -25,7 +25,7 @@
 ### 📊 Estatísticas
 
 <a href="https://github.com/gustavoventieri" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoventieri &theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoventieri&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
 <br>
