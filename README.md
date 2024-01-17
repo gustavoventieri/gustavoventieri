@@ -22,23 +22,25 @@
   </a>
 </p>
 
-### 📊 Estatísticas
 
-<a href="https://github.com/gustavoventieri" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoventieri&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
-
+<div align="center">
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavoventieri&show_icons=true&count_private=true&hide_border=true&title_color=8266b4&icon_color=cbb9ea&text_color=8266b4&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoventieri&layout=compact&hide_border=true&title_color=8266b4&text_color=8266b4&bg_color=0d1117" />
+</div>
 <br>
 
-### 📱 Minhas redes:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustavo-ventieri?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
-
-  <a href="https://wa.me/5511930080257" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=" alt="WhatsApp"/></a>
-
-  <a href="https://www.instagram.com/gustavoventieri/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
-</p>
+<div align="center"> 
+   <br>
+      <div align="center">
+      <br>
+      <a href="https://instagram.com/gustavoventieri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "mailto:gustavoventieri@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/gustavo-ventieri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://api.whatsapp.com/send?phone=5511930080257" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-161b22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+      <br>
+      <br>
+   </div>
+   
+   ![fa](https://vbr.wocr.tk/badge?page_id=gustavoventieri&text=Profile_views&lcolor=161b22&color=181e26&style=flat-square)
+</div>
