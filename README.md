@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,mongodb" />
   </a>
 </p>
 
@@ -41,6 +41,8 @@
       <br>
       <br>
    </div>
-   
-   ![fa](https://vbr.wocr.tk/badge?page_id=gustavoventieri&text=Profile_views&lcolor=161b22&color=181e26&style=flat-square)
+
+ 
+</div>
+  
 </div>
