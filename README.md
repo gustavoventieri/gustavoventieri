@@ -23,11 +23,7 @@
 </p>
 
 
-<div align="right">
-  
-  <img width="100%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoventieri&layout=compact&hide_border=true&title_color=8266b4&text_color=8266b4&bg_color=0d1117" />
-</div>
-<br>
+
 
 
 <div align="center"> 
